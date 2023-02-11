@@ -1,3 +1,4 @@
+Name: Adeoluwa Ogunmefun Title: Bash Session Commands
 Script started on 2023-02-11 11:47:48-07:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="115" LINES="28"]
 To run a command as administrator (user "root"), use "sudo <command>".
 See "man sudo_root" for details.
@@ -110,4 +111,150 @@ See "man sudo_root" for details.
 98.146.86.fih,2017-06-27,22:55:51,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116589.0,0.0,0.0,0.0,10.0,0.0,
 66.249.66.chj,2017-06-27,23:41:30,0.0,1585002.0,0001585002-14-000027,mhglobal[01;31m[Keducation[m[Kq32014f.htm,304.0,248.0,0.0,0.0,0.0,10.0,0.0,
 86.153.148.abf,2017-06-27,23:54:09,0.0,1302343.0,0001390777-09-000029,[01;31m[Keducation[m[Krealty2008yebnymc.txt,200.0,7078.0,0.0,0.0,0.0,10.0,0.0,
-58.177.7.fad,2017-06-27,23:54:52,0.0,1364742.0,0000215457-17-003221,tal.[
+58.177.7.fad,2017-06-27,23:54:52,0.0,1364742.0,0000215457-17-003221,tal.[01;31m[Keducation[m[K.group..txt,200.0,4931.0,0.0,0.0,0.0,10.0,0.0,
+[?2004h]0;deolu@DESKTOP-V4CG39J: ~/EEE510/EEE510-module-2[01;32mdeolu@DESKTOP-V4CG39J[00m:[01;34m~/EEE510/EEE510-module-2[00m$ grep "education[a-zA-z[KZ0-9.]*.te[Kxt" log.csv
+[?2004l1.202.140.ged,2017-06-27,01:34:47,0.0,886982.0,0000769993-17-000435,tal[01;31m[Keducation0gscototal.txt[m[K,200.0,5870.0,0.0,0.0,0.0,9.0,0.0,
+86.153.148.abf,2017-06-27,06:14:10,0.0,1046568.0,0001132625-10-000026,v13ga4career[01;31m[Keducation.txt[m[K,200.0,5440.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,06:59:20,0.0,922475.0,0001086364-10-008787,itt[01;31m[Keducation012910.txt[m[K,200.0,5188.0,0.0,0.0,0.0,10.0,0.0,
+40.77.167.ifh,2017-06-27,07:03:14,0.0,1302343.0,0000869311-17-000385,[01;31m[Keducation.realty.trust..txt[m[K,200.0,5145.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,07:44:03,0.0,895421.0,0000895421-10-000405,neworiental[01;31m[Keducation1.txt[m[K,200.0,3800.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,08:21:58,0.0,895421.0,0000895421-10-000405,neworiental[01;31m[Keducation1.txt[m[K,200.0,3800.0,0.0,0.0,0.0,10.0,0.0,
+180.165.168.jeh,2017-06-27,12:45:47,0.0,1364742.0,0000215457-17-003221,tal.[01;31m[Keducation.group..txt[m[K,200.0,4925.0,0.0,0.0,0.0,10.0,0.0,
+180.165.168.jeh,2017-06-27,12:49:03,0.0,886982.0,0000769993-17-000435,tal[01;31m[Keducation0gscototal.txt[m[K,200.0,5870.0,0.0,0.0,0.0,10.0,0.0,
+199.192.67.ihd,2017-06-27,13:15:16,0.0,1364742.0,0000215457-17-003221,tal.[01;31m[Keducation.group..txt[m[K,200.0,11588.0,0.0,0.0,0.0,10.0,0.0,
+117.136.0.cca,2017-06-27,13:38:10,0.0,1364742.0,0000215457-17-003221,tal.[01;31m[Keducation.group..txt[m[K,200.0,4925.0,0.0,0.0,0.0,10.0,0.0,
+204.4.182.ide,2017-06-27,13:48:17,0.0,886982.0,0000769993-17-000435,tal[01;31m[Keducation0gscototal.txt[m[K,200.0,5870.0,0.0,0.0,0.0,9.0,0.0,
+156.33.118.eja,2017-06-27,14:37:56,0.0,929887.0,0000215457-17-002148,apollo.[01;31m[Keducation.gro.txt[m[K,200.0,5094.0,0.0,0.0,0.0,9.0,0.0,
+86.153.148.abf,2017-06-27,15:49:11,0.0,895421.0,0000895421-09-000638,career[01;31m[Keducation3.txt[m[K,200.0,3811.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,15:51:33,0.0,895421.0,0000895421-09-000638,career[01;31m[Keducation3.txt[m[K,200.0,3811.0,0.0,0.0,0.0,10.0,0.0,
+199.192.67.ihd,2017-06-27,17:35:04,0.0,1364742.0,0000215457-17-003221,tal.[01;31m[Keducation.group..txt[m[K,200.0,11588.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,22:41:48,0.0,1046568.0,0001132625-09-000021,v13ga3career[01;31m[Keducation.txt[m[K,200.0,5619.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,23:54:09,0.0,1302343.0,0001390777-09-000029,[01;31m[Keducationrealty2008yebnymc.txt[m[K,200.0,7078.0,0.0,0.0,0.0,10.0,0.0,
+58.177.7.fad,2017-06-27,23:54:52,0.0,1364742.0,0000215457-17-003221,tal.[01;31m[Keducation.group..txt[m[K,200.0,4931.0,0.0,0.0,0.0,10.0,0.0,
+[?2004h]0;deolu@DESKTOP-V4CG39J: ~/EEE510/EEE510-module-2[01;32mdeolu@DESKTOP-V4CG39J[00m:[01;34m~/EEE510/EEE510-module-2[00m$ grep "education[a-zA-Z0-9.]*.txt" log.csv > records.txt
+[?2004l[?2004h]0;deolu@DESKTOP-V4CG39J: ~/EEE510/EEE510-module-2[01;32mdeolu@DESKTOP-V4CG39J[00m:[01;34m~/EEE510/EEE510-module-2[00m$ ls
+[?2004lREADME.md  commands.txt  log.csv  [0m[01;31mlog.tar.gz[0m  records.txt
+[?2004h]0;deolu@DESKTOP-V4CG39J: ~/EEE510/EEE510-module-2[01;32mdeolu@DESKTOP-V4CG39J[00m:[01;34m~/EEE510/EEE510-module-2[00m$ git stu[Katus
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mcommands.txt[m
+	[31mlog.csv[m
+	[31mlog.tar.gz[m
+	[31mrecords.txt[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;deolu@DESKTOP-V4CG39J: ~/EEE510/EEE510-module-2[01;32mdeolu@DESKTOP-V4CG39J[00m:[01;34m~/EEE510/EEE510-module-2[00m$ git add commands.txt records.txt
+[?2004l[?2004h]0;deolu@DESKTOP-V4CG39J: ~/EEE510/EEE510-module-2[01;32mdeolu@DESKTOP-V4CG39J[00m:[01;34m~/EEE510/EEE510-module-2[00m$ git status
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   commands.txt[m
+	[32mnew file:   records.txt[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   commands.txt[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mlog.csv[m
+	[31mlog.tar.gz[m
+
+[?2004h]0;deolu@DESKTOP-V4CG39J: ~/EEE510/EEE510-module-2[01;32mdeolu@DESKTOP-V4CG39J[00m:[01;34m~/EEE510/EEE510-module-2[00m$ git.[K commit -m "initial commit"
+[?2004l[main 8aa0ccd] initial commit
+ 2 files changed, 131 insertions(+)
+ create mode 100644 commands.txt
+ create mode 100644 records.txt
+[?2004h]0;deolu@DESKTOP-V4CG39J: ~/EEE510/EEE510-module-2[01;32mdeolu@DESKTOP-V4CG39J[00m:[01;34m~/EEE510/EEE510-module-2[00m$ git push
+[?2004lUsername for 'https://github.com': aogunmef@asu.edu^C
+[?2004h]0;deolu@DESKTOP-V4CG39J: ~/EEE510/EEE510-module-2[01;32mdeolu@DESKTOP-V4CG39J[00m:[01;34m~/EEE510/EEE510-module-2[00m$ touch .env
+[?2004l[?2004h]0;deolu@DESKTOP-V4CG39J: ~/EEE510/EEE510-module-2[01;32mdeolu@DESKTOP-V4CG39J[00m:[01;34m~/EEE510/EEE510-module-2[00m$ vi .env
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;28r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[28;1H".env" 0L, 0B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[2;1H[94m~                                                                                                                  [3;1H~                                                                                                                  [4;1H~                                                                                                                  [5;1H~                                                                                                                  [6;1H~                                                                                                                  [7;1H~                                                                                                                  [8;1H~                                                                                                                  [9;1H~                                                                                                                  [10;1H~                                                                                                                  [11;1H~                                                                                                                  [12;1H~                                                                                                                  [13;1H~                                                                                                                  [14;1H~                                                                                                                  [15;1H~                                                                                                                  [16;1H~                                                                                                                  [17;1H~                                                                                                                  [18;1H~                                                                                                                  [19;1H~                                                                                                                  [20;1H~                                                                                                                  [21;1H~                                                                                                                  [22;1H~                                                                                                                  [23;1H~                                                                                                                  [24;1H~                                                                                                                  [25;1H~                                                                                                                  [26;1H~                                                                                                                  [27;1H~                                                                                                                  [m[28;98H0,0-1[9CAll[1;1H[?25h[?25l[28;88H^[[1;1H[28;90H[[1;1H[28;91H>[1;1H[28;92H0[1;1H[28;93H;[1;1H[28;94H1[1;1H[28;95H0[1;1H[28;96H;[1;1H[28;88H         [1;1H[?12$p[?25h[?25l[28;88H~@k[1;1H[28;88H   [1;1H[28;1H[1m-- INSERT --[m[28;13H[K[28;98H0,1[11CAll[1;1H[?25h[?25lt[28;98H1,2[1;2H[?25h[?25lo[28;100H3[1;3H[?25h[?25le[28;100H4[1;4H[?25h[?25l[1;3H[K[28;100H3[1;3H[?25h[?25l[1;2H[K[28;100H2[1;2H[?25h[?25l[1;1H[K[28;100H1[1;1H[?25h[?25lT[28;100H2[1;2H[?25h[?25lO[28;100H3[1;3H[?25h[?25lK[28;100H4[1;4H[?25h[?25lE[28;100H5[1;5H[?25h[?25lN[28;100H6[1;6H[?25h[?25l[36mTOKEN[m=[28;100H7[1;7H[?25h[?25l[38;5;130m"[m[28;100H8[1;8H[?25h[?25l[31mghp_Usza1pX[?25h[?25lLxnesx[?25h[?25lkhbMmr9BSM6S[?25h[?25lLyoAS1avFdQ[?25h[?25l[m[28;100H48[1;48H[?25h[?25l[38;5;130m"[m[28;101H9[1;49H[?25h[28;1H[K[1;48H[?25l[28;88H^[[1;48H[28;88H  [1;49H[28;98H1,48[10CAll[1;48H[?25h[?25l[28;88H:[1;48H[28;88H[K[28;1H:[?25hwq[?25l[?2004l[>4;m".env" 1L, 49B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t[?2004h]0;deolu@DESKTOP-V4CG39J: ~/EEE510/EEE510-module-2[01;32mdeolu@DESKTOP-V4CG39J[00m:[01;34m~/EEE510/EEE510-module-2[00m$ touch .gitnore
+[?2004l[?2004h]0;deolu@DESKTOP-V4CG39J: ~/EEE510/EEE510-module-2[01;32mdeolu@DESKTOP-V4CG39J[00m:[01;34m~/EEE510/EEE510-module-2[00m$ vi .i[Kgitnore
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;28r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[28;1H".gitnore" 0L, 0B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[2;1H[94m~                                                                                                                  [3;1H~                                                                                                                  [4;1H~                                                                                                                  [5;1H~                                                                                                                  [6;1H~                                                                                                                  [7;1H~                                                                                                                  [8;1H~                                                                                                                  [9;1H~                                                                                                                  [10;1H~                                                                                                                  [11;1H~                                                                                                                  [12;1H~                                                                                                                  [13;1H~                                                                                                                  [14;1H~                                                                                                                  [15;1H~                                                                                                                  [16;1H~                                                                                                                  [17;1H~                                                                                                                  [18;1H~                                                                                                                  [19;1H~                                                                                                                  [20;1H~                                                                                                                  [21;1H~                                                                                                                  [22;1H~                                                                                                                  [23;1H~                                                                                                                  [24;1H~                                                                                                                  [25;1H~                                                                                                                  [26;1H~                                                                                                                  [27;1H~                                                                                                                  [m[28;98H0,0-1[9CAll[1;1H[?25h[?25l[28;88H^[[1;1H[28;90H[[1;1H[28;91H>[1;1H[28;92H0[1;1H[28;93H;[1;1H[28;94H1[1;1H[28;95H0[1;1H[28;96H;[1;1H[28;88H         [1;1H[?12$p[?25h[?25l[28;88H=[1;1H[?25h[?25l[28;89H^[[1;1H[28;89H  [1;1H[28;89H^[[1;1H[28;88H   [1;1H[?25h[?25l[28;88H:[1;1H[28;1H[K[28;1H:[?25hq[?25l[?2004l[>4;m[23;2t[23;1t[28;1H[K[28;1H[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t[?2004h]0;deolu@DESKTOP-V4CG39J: ~/EEE510/EEE510-module-2[01;32mdeolu@DESKTOP-V4CG39J[00m:[01;34m~/EEE510/EEE510-module-2[00m$ vi .gitnore
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;28r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[28;1H".gitnore" 0L, 0B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[2;1H[94m~                                                                                                                  [3;1H~                                                                                                                  [4;1H~                                                                                                                  [5;1H~                                                                                                                  [6;1H~                                                                                                                  [7;1H~                                                                                                                  [8;1H~                                                                                                                  [9;1H~                                                                                                                  [10;1H~                                                                                                                  [11;1H~                                                                                                                  [12;1H~                                                                                                                  [13;1H~                                                                                                                  [14;1H~                                                                                                                  [15;1H~                                                                                                                  [16;1H~                                                                                                                  [17;1H~                                                                                                                  [18;1H~                                                                                                                  [19;1H~                                                                                                                  [20;1H~                                                                                                                  [21;1H~                                                                                                                  [22;1H~                                                                                                                  [23;1H~                                                                                                                  [24;1H~                                                                                                                  [25;1H~                                                                                                                  [26;1H~                                                                                                                  [27;1H~                                                                                                                  [m[28;98H0,0-1[9CAll[1;1H[?25h[?12$p[?25l[28;88H~@k[1;1H[28;88H   [1;1H[28;1H[1m-- INSERT --[m[28;13H[K[28;98H0,1[11CAll[1;1H[?25h[?25l.[28;98H1,2[1;2H[?25h[?25le[28;100H3[1;3H[?25h[?25ln[28;100H4[1;4H[?25h[?25lv[28;100H5[1;5H[?25h[?25l[2;1H[K[28;98H2,1[2;1H[?25h[?25ll[28;100H2[2;2H[?25h[?25lo[28;100H3[2;3H[?25h[?25lg[28;100H4[2;4H[?25h[?25l.[28;100H5[2;5H[?25h[?25lc[28;100H6[2;6H[?25h[?25ls[28;100H7[2;7H[?25h[?25lv[28;100H8[2;8H[?25h[?25l[3;1H[K[28;98H3,1[3;1H[?25h[?25ll[28;100H2[3;2H[?25h[?25lo[28;100H3[3;3H[?25h[?25lg[28;100H4[3;4H[?25h[?25l.[28;100H5[3;5H[?25h[?25lt[28;100H6[3;6H[?25h[?25la[28;100H7[3;7H[?25h[?25lr[28;100H8[3;8H[?25h[?25l.[28;100H9[3;9H[?25h[?25lg[28;100H10[3;10H[?25h[?25lz[28;101H1[3;11H[?25h[?25l[4;1H[K[28;98H4,1 [4;1H[?25h[28;1H[K[4;1H[?25l[28;88H^[[4;1H[28;88H  [4;1H[28;98H4,0-1[9CAll[4;1H[?25h[?25l[28;88H:[4;1H[28;88H[K[28;1H:[?25hwq[?25l[?2004l[>4;m".gitnore" 4L, 25B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t[?2004h]0;deolu@DESKTOP-V4CG39J: ~/EEE510/EEE510-module-2[01;32mdeolu@DESKTOP-V4CG39J[00m:[01;34m~/EEE510/EEE510-module-2[00m$ git status
+[?2004lOn branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   commands.txt[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.env[m
+	[31m.gitnore[m
+	[31mlog.csv[m
+	[31mlog.tar.gz[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;deolu@DESKTOP-V4CG39J: ~/EEE510/EEE510-module-2[01;32mdeolu@DESKTOP-V4CG39J[00m:[01;34m~/EEE510/EEE510-module-2[00m$ git add .gitnore .env
+[?2004l[?2004h]0;deolu@DESKTOP-V4CG39J: ~/EEE510/EEE510-module-2[01;32mdeolu@DESKTOP-V4CG39J[00m:[01;34m~/EEE510/EEE510-module-2[00m$ ls
+[?2004lREADME.md  commands.txt  log.csv  [0m[01;31mlog.tar.gz[0m  records.txt
+[?2004h]0;deolu@DESKTOP-V4CG39J: ~/EEE510/EEE510-module-2[01;32mdeolu@DESKTOP-V4CG39J[00m:[01;34m~/EEE510/EEE510-module-2[00m$ git status
+[?2004lOn branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   .env[m
+	[32mnew file:   .gitnore[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   commands.txt[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mlog.csv[m
+	[31mlog.tar.gz[m
+
+[?2004h]0;deolu@DESKTOP-V4CG39J: ~/EEE510/EEE510-module-2[01;32mdeolu@DESKTOP-V4CG39J[00m:[01;34m~/EEE510/EEE510-module-2[00m$ git rm --cached .env
+[?2004lrm '.env'
+[?2004h]0;deolu@DESKTOP-V4CG39J: ~/EEE510/EEE510-module-2[01;32mdeolu@DESKTOP-V4CG39J[00m:[01;34m~/EEE510/EEE510-module-2[00m$ ls[K[Kgit status
+[?2004lOn branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   .gitnore[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   commands.txt[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.env[m
+	[31mlog.csv[m
+	[31mlog.tar.gz[m
+
+[?2004h]0;deolu@DESKTOP-V4CG39J: ~/EEE510/EEE510-module-2[01;32mdeolu@DESKTOP-V4CG39J[00m:[01;34m~/EEE510/EEE510-module-2[00m$ git push
+[?2004lUsername for 'https://github.com': aogunmef@asu.edu
+Password for 'https://aogunmef@asu.edu@github.com': 
+Enumerating objects: 5, done.
+Counting objects:  20% (1/5)Counting objects:  40% (2/5)Counting objects:  60% (3/5)Counting objects:  80% (4/5)Counting objects: 100% (5/5)Counting objects: 100% (5/5), done.
+Delta compression using up to 16 threads
+Compressing objects:  25% (1/4)Compressing objects:  50% (2/4)Compressing objects:  75% (3/4)Compressing objects: 100% (4/4)Compressing objects: 100% (4/4), done.
+Writing objects:  25% (1/4)Writing objects:  50% (2/4)Writing objects:  75% (3/4)Writing objects: 100% (4/4)Writing objects: 100% (4/4), 3.57 KiB | 3.57 MiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/aogunmef/EEE510-module-2.git
+   28c9160..8aa0ccd  main -> main
+[?2004h]0;deolu@DESKTOP-V4CG39J: ~/EEE510/EEE510-module-2[01;32mdeolu@DESKTOP-V4CG39J[00m:[01;34m~/EEE510/EEE510-module-2[00m$ exit
+[?2004lexit
+
+Script done on 2023-02-11 11:58:01-07:00 [COMMAND_EXIT_CODE="0"]
